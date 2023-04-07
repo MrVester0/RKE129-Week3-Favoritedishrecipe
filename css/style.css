@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Grenze:wght@100&family=Lakki+Reddy&family=Ribeye+Marrow&family=Russo+One&family=Satisfy&family=Sedgwick+Ave+Display&family=Shantell+Sans:wght@300&display=swap');
+
+body{
+    background-color: rgb(238, 211, 171);
+}
+
+.heading{
+    text-align: center;
+}
+
+.th-table{
+    font-family: 'Shantell Sans', cursive;
+}
+
+.h1{
+    color: rgb(194, 171, 136);
+    font-family: 'Russo One', sans-serif;
+    font-size: 4rem;
+}
+
+.brownie{
+    text-align: center;
+}
+
+.h2{
+    color: rgb(49, 43, 41);
+    font-family: 'Lakki Reddy', cursive;
+    font-size: 3rem;
+}
+
+
+.image-main .photo {
+    width: 450px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 40px;
+} 
+    
+.about {
+    color: rgb(49, 26, 8);
+    font-size: 16px;
+    padding-left: 20px;
+    padding-top: 20px;
+    float: left;
+    width: 500px;
+}
+    
+
+.keep-in-mind{
+    text-align: center;
+    color: rgb(68, 49, 25);
+    font-family: 'Lakki Reddy';
+}
+
+
+.Ingredients{
+    border: 1px solid rgb(138, 119, 96);
+}
+
+.table{
+    border: 2px solid rgb(172, 157, 140);
+    margin: 0 auto;
+    color: rgb(49, 38, 18);
+}
+
+.Instruction{
+    margin: 0 auto;
+    width: 55%;
+    color: rgb(63, 44, 22);
+}
+
+.Vester{
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-size: 1rem;
+    color: rgb(87, 67, 42);
+}
